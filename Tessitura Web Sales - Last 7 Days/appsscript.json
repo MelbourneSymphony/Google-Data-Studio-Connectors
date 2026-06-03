@@ -1,0 +1,27 @@
+{
+  "timeZone": "Australia/Melbourne",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dependencies": {},
+  "dataStudio": {
+    "name": "Tessitura Web Sales - Last 7 Days",
+    "logoUrl": "https://github.com/MelbourneSymphony/Google-Data-Studio-Connectors/blob/main/channels4_profile.jpg",
+    "company": "Melbourne Symphony Orchestra",
+    "companyUrl": "https://github.com/MelbourneSymphony",
+    "addonUrl": "https://github.com/MelbourneSymphony/Google-Data-Studio-Connectors",
+    "supportUrl": "https://github.com/MelbourneSymphony/Google-Data-Studio-Connectors/issues",
+    "description": "Connect Tessitura Sales data to Google Data Studio - This Connector is for the Last 7 days of Web Sales data for MSO .",
+    "sources": [],
+    "shortDescription": "Connect to Tessitura Sales data.",
+    "authType": [
+      "USER_PASS"
+    ]
+  },
+  "webapp": {
+    "executeAs": "USER_DEPLOYING",
+    "access": "MYSELF"
+  },
+  "executionApi": {
+    "access": "MYSELF"
+  }
+}
